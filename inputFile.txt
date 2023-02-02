@@ -1,0 +1,4 @@
+Uses function to read file then return control to 
+execution environment ASAP so next instruction 
+can be executed. After file input is finished,
+it calls the function using input file as parameter.
